@@ -1,0 +1,13 @@
+*{
+    background-color: rgb(28, 27, 27);
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(255, 255, 255);
+    padding: 10px
+}
+.a01{
+    background-color: rgb(51, 83, 244);
+}
+.go{
+    color: azure;
+}
+

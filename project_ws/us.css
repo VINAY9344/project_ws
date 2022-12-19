@@ -1,0 +1,24 @@
+*{background-color: rgb(36, 33, 33);
+color: rgb(255, 255, 255);
+padding: 5px;}
+
+.col{
+    height: 280px;
+    width: 260px;
+    background-color: rgb(234, 195, 145);
+    border: 10px solid;
+    border-color: rgb(72, 40, 1); 
+    margin: 10px;
+    text-align: center;
+    float: left;
+    padding: 55px;
+    padding-top: 10px;
+    color: rgb(8, 8, 8);
+    margin-left: 120px;
+}
+.a01{
+    font-size: 25px;
+}
+.go{
+    text-align: center;
+}
